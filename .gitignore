@@ -1,0 +1,5 @@
+.idea
+
+# Fichiers trop lourd pour github
+/data/raw/btcusd_1-min_data.csv
+
