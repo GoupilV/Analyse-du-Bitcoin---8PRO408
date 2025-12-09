@@ -3,3 +3,4 @@
 # Fichiers trop lourd pour github
 /data/raw/btcusd_1-min_data.csv
 
+/data/clean/bitcoin_1min_clean.parquet
