@@ -27,6 +27,11 @@ Pour installer automatiquement l’ensemble des dépendances, veuillez exécuter
 pip install -r requirements.txt
 ```
 
+Et pour activer l'environement virtuel python si nécessaire :
+```
+.venv\Scripts\activate
+```
+
 ## Lancement
 
 Une fois les dépendances installées, le Notebook Jupyter peut être exécuté.
