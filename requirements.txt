@@ -5,3 +5,4 @@ numpy
 matplotlib
 pandas~=2.3.3
 fastparquet
+nbformat
